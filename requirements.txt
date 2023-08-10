@@ -1,0 +1,10 @@
+
+
+flask==2.3.2
+flask-cors==4.0.0
+easyocr==1.7.0
+tensorflow==2.13.0
+tensorflow-object-detection-api==0.1.1
+pytesseract==0.3.10
+python-dotenv==1.0.0
+pillow==9.5.0
